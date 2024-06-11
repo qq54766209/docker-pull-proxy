@@ -1,1 +1,1 @@
-kindest/node:v1.30.0 registry.cn-hangzhou.aliyuncs.com/qdliu/kindest/node:v1.30.0
+kindest/node:v1.30.0   registry.cn-hangzhou.aliyuncs.com/qdliu/kindest/node:v1.30.0
